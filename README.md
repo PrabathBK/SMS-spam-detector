@@ -38,5 +38,5 @@ This project showcases the effectiveness of machine learning in classifying SMS 
 
 ## Contact Information
 
-For any inquiries or feedback, please contact [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
+For any inquiries or feedback,please contact [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
 
